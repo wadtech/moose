@@ -1,5 +1,5 @@
 {
-  "name": "roboty",
+  "name": "moose",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "babel": "^5.8.21",
     "robotjs": "^0.2.3"
   }
 }
